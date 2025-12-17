@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "6a96ff14961fd7c6",
-        "key": "Cliente1",
-        "expirydate": "30-12-2025",
-        "Allowoffline": true
-    },
-    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
@@ -16,5 +10,11 @@
         "key": "JuannModz",
         "expirydate": "25-12-2025",
         "Allowoffline": false
-     }
+     },
+    {
+        "device_id": "6a96ff14961fd7c6",
+        "key": "JuannModz2",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    }
 ]
