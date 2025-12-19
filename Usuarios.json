@@ -16,5 +16,11 @@
         "key": "JuannModz2",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "12564c6131b5645e",
+        "key": "JuannModz3",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 ]
